@@ -20,7 +20,8 @@ With this system, all these scenarios become possible without relying on externa
  - A Raspberry Pi (Minimum: Pi Zero W, Recommended: Pi 3 or 4)
  - Wifi USB Adapter (Optional, For Better Connectivity)
  - SD Card (Minimum: 8GB, Recommended: 16GB Or Higher)
- - Computer To Install the OS Linux Distro Image Compatible With The Raspberry Pi (Recommended: Raspbian)
+ - Computer To Install the OS
+ -  Linux Distro Image Compatible With The Raspberry Pi (Recommended: Raspbian)
  - Smartphones As Clients (Android or IOS)
  - Power Bank (Optional, For Portability)
 
